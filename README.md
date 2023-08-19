@@ -2,11 +2,6 @@
 # Python: Automation - Dollar/Euro/Gold - Update to excel 
 
 
-
-
-
-## Acknowledgements
-
  - This is a project of Automation using Python and Selenium library to get Dollar/Euro/Gold values. 
  - Update daily cotation inte an excel
  - Multiply daily cotation values and update the final sale values
@@ -20,29 +15,9 @@
 
 ## Requirements
 
-- Selenium library 
+- Selenium library
 
 
-
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`VIRTUAL ENVIRONMENT`
-venv\Scripts\activate
-
-`RUN TESTS`
-pytest -v 
-
-
-## Features
-
-- Classes and Objects
-- Implementing Methods
-- Encapsulation
-- Using Properties
-- Private and Static Methods
 ## Demo 
 
 - Automatically searching for dollar cotation 
@@ -68,18 +43,4 @@ This repository showcases a Python and Selenium automation project that fetches 
 - **Continuous Enhancement**: Iterative improvements refine the script, enhancing performance and functionality.
 
 This project has enriched my skills in automation, web scraping and error handling. Feel free to explore the code for your projects. For questions or suggestions, reach out anytime!
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
