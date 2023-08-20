@@ -18,13 +18,18 @@
 - Selenium library
 
 
+
 ## Demo 
+
+- [Video - Demo](https://www.loom.com/share/3c9b2786e2fd4035ac8d70dd9dad85dc?sid=9532fcde-32c4-4c00-b31a-8f35efa6eb8c)
 
 - Automatically searching for dollar cotation 
 ![image](https://github.com/tiagoc0sta/01_automation_dollar-euro-ouro_to_excel/assets/63982700/99613bb8-a7f3-42db-a570-ca7d750f2e97)
 
 - Automatically updating the excel database 
 ![image](https://github.com/tiagoc0sta/01_automation_dollar-euro-ouro_to_excel/assets/63982700/3632f6c0-d094-47d3-8062-5b05042bd625)
+
+
 
 # Automation Project using Python and Selenium
 
